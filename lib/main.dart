@@ -44,7 +44,7 @@ class MyApp extends StatelessWidget {
 
   /// Constrói a interface do widget.
   ///
-  /// Este método retorna um [MaterialApp] configurado com os temas claro e escuro,
+  /// Este metodo retorna um [MaterialApp] configurado com os temas claro e escuro,
   /// a tela inicial [MonitorListScreen], e outras propriedades de configuração.
   ///
   /// ```dart
